@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM armv7:armhf-ubuntu
 MAINTAINER Óscar de Arriba <odarriba@gmail.com>
 
 ##################
